@@ -1,4 +1,5 @@
  # Employee Tracker
+<img width="1355" alt="Screen Shot 2022-06-03 at 12 55 37 PM" src="https://user-images.githubusercontent.com/94155400/171919978-5816e7a0-70ff-4c66-a2ef-764073ce7860.png">
 
 
   ## Table of Contents
