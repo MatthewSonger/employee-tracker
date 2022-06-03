@@ -23,4 +23,4 @@ VALUES
 ('Kobe', 'Bryant', 5, 1),
 ('Tiger', 'Woods', 3, 4),
 ('Floyd', 'Mayweather', 1, NULL),
-('Tomy', 'Brady', 6, NULL);
+('Tom', 'Brady', 6, NULL);
